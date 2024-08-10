@@ -10,5 +10,5 @@ This repository contains an implementation of various machine learning algorithm
 
 # Requirements
 - Python 3.x
-- Jupyter Notebook (optional)
+- Jupyter Notebook
 - Libraries: pandas, scikit-learn
